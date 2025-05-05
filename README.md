@@ -74,6 +74,8 @@
   <a href = "https://github.com/huiseong29"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" /></a>
 </div>
 
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+
 
 <!--
 **TaeWooKim-SCH/TaeWooKim-SCH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
